@@ -1,3 +1,5 @@
 # demo1
 test_1
-some changes done!
+
+some deletion at 3 and again pasting at 5
+' some changes done! '
